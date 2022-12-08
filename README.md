@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @MatviievMark
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python Web Development
+- 📖 Currently a CS student at Belhaven Uni
+- 🌏 Trilingual | English | Ukrainain | Russian
+- 💻 3 years of C++ | 2 years of C# .NET | 1 year of Python development |
 - 📫 How to reach me matviievmark@gmail.com
 
 <!---
